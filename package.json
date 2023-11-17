@@ -12,6 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "@tailwindcss/line-clamp": "^0.4.0",
+    "prettier-plugin-tailwindcss": "^0.5.7",
     "tailwindcss": "^3.0.24"
   }
 }
